@@ -7,7 +7,7 @@
 <p><a href="https://www.buymeacoffee.com/SamBow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SamBow" /></a></p><br><br>
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate Full-Stack Developer from Seattle</h3>
+<h3 align="center">A passionate Full-Stack Developer from Seattle. I have been living in Seattle for most of my life and I am a bit of an outdoor enthusiast. Currently switching careers to software engineering</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambow7](https://github.com/sambow7)
