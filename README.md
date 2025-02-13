@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Seattle</h3>
 
 - 🔭 Currently studying Full Stack Development at <a href="https://generalassemb.ly/">General Assembly</a>
-- ❤️‍🔥 **Full Stack Development** with JavaScript, React, and Python.
+- ❤️‍🔥 **Full Stack Development** with JavaScript and Python.
 - 🌍 Open to collaborations, freelance work, and networking opportunities
 - 📫 How to reach me **samhbowen@gmail.com**
 - 👨‍💻 All of my projects are available ...here
