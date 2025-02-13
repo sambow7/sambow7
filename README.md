@@ -6,10 +6,11 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate Full-Stack Developer from Seattle</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sambow7](https://github.com/sambow7)
-
+- 🔭 Currently studying Full Stack Development at <a href="https://generalassemb.ly/">General Assembly</a>
+- ❤️‍🔥 **Full Stack Development** with JavaScript, React, and Python.
+- 🌍 Open to collaborations, freelance work, and networking opportunities
 - 📫 How to reach me **samhbowen@gmail.com**
-
+- 👨‍💻 All of my projects are available ...here
 - ⚡ Fun fact I love to sleep in the woods 🏕️
 
 #### <ins>Skills</ins>
@@ -67,10 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/></a>
-<!--   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> -->
-
-<!--       <a href="" target="_blank" rel="noreferrer">
+<!--<a href="" target="_blank" rel="noreferrer">
     <img src="" alt="" width="40" height="40"/></a>
       <a href="" target="_blank" rel="noreferrer">
     <img src="" alt="" width="40" height="40"/></a> -->
