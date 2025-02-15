@@ -82,8 +82,9 @@
 <a href="https://slack.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" height="30" width="40"/></a>
 </p>
 
-<p><a href="https://www.buymeacoffee.com/SamBow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SamBow" /></a></p><br>
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambow7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sambow7" /></p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambow7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sambow7" /></p><br>
 
 <!--<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sambow7&show_icons=true&locale=en&theme=tokyonight" alt="sambow7" /></p>-->
+
+<p><a href="https://www.buymeacoffee.com/SamBow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SamBow" /></a></p><br>
